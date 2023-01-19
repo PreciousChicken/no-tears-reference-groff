@@ -3,7 +3,7 @@ database notears.bib # Path to bibliography file
 accumulate # Collates References at end of documentation
 move-punctuation # Ensures that citation appears before full-stop.
 label "(A.n|Q) ', ' (D.+yD.y%a*D.-y)" # Actual format of citation (e.g. (Author, Date)
-bracket-label " (" ) "; " # Bracket
+bracket-label " (" ) "; " # Bracket style
 no-label-in-reference # Does not display full citation (e.g. Author, Date) within References
 .R2 \" Citation commands end
 .ds FAM H \" Sets font family
